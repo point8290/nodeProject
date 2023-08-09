@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "contacts": [
+      { "name": "rahil", "number": "1234567890" },
+      { "name": "sahil", "number": "2234567777" },
+      { "name": "miten", "number": "1212123456" }
+    ]
+  },
+  {
+    "userId": 2,
+    "contacts": [
+      { "name": "darshan", "number": "6657991246" },
+      { "name": "sahil", "number": "2234567777" }
+    ]
+  },
+  { "searchNumber": "2234567777" },
+  { "userId": 2, "page": 1, "pageSize": 2 },
+  { "userId": 1, "page": 1, "pageSize": 2, "searchText": "rah" }
+]
